@@ -6,12 +6,7 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAc64CLdfiLMigo9BeaD0qsXWm41YhGKn4",
-  authDomain: "pchat-1b341.firebaseapp.com",
-  projectId: "pchat-1b341",
-  storageBucket: "pchat-1b341.appspot.com",
-  messagingSenderId: "335471472078",
-  appId: "1:335471472078:web:d8f02adf91adedca904f9f"
+  // add from you firebase
 };
 
 // Initialize Firebase
