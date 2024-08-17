@@ -31,7 +31,9 @@ Users can upload and send image files, which are then displayed in the chat wind
 
 - **PDF Files**:
 Users can also upload and send PDF files. Thumbnails of the PDF files are previewed in the chat window, allowing users to view the first page of the PDF directly in the chat.
+## Utility Functions
 
+- formatTime: Formats timestamps to a human-readable format (e.g., "just now", "5 minutes ago", etc.).
 ## Setup
 
 1. Clone the repository:
@@ -56,9 +58,5 @@ Users can also upload and send PDF files. Thumbnails of the PDF files are previe
 ## Firebase Configuration
 
 - Make sure to replace the placeholder Firebase configuration in src/firebase.js with your own Firebase project credentials.
-
-## Utility Functions
-
-- formatTime: Formats timestamps to a human-readable format (e.g., "just now", "5 minutes ago", etc.).
 
 
